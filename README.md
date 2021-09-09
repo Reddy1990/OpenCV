@@ -1,2 +1,2 @@
-# openCV
+# OpenCV
  
